@@ -1,0 +1,10 @@
+F:\Repos\EMSS\EMSS\bin\Debug\EMSS.exe.config
+F:\Repos\EMSS\EMSS\bin\Debug\EMSS.exe
+F:\Repos\EMSS\EMSS\bin\Debug\EMSS.pdb
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.csprojAssemblyReference.cache
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.Form1.resources
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.Properties.Resources.resources
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.csproj.GenerateResource.cache
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.csproj.CoreCompileInputs.cache
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.exe
+F:\Repos\EMSS\EMSS\obj\Debug\EMSS.pdb
